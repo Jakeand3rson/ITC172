@@ -1,0 +1,11 @@
+﻿body {
+}
+
+h1{
+    background-color:hotpink;
+        color:white;
+        border-bottom:5px solid black;
+        text-align:center;
+        max-width:80%;
+
+}
